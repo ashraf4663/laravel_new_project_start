@@ -1,0 +1,2 @@
+//after instal composer the instal gitBash open gitbash in htdocs folder past the belos link 8.1 laravel 
+composer create-project --prefer-dist laravel/laravel blog
